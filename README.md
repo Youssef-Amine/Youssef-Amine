@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deep learning models and Generating AI
 - 💞️ I’m looking to collaborate on projects including any machine learning work
 - 📫 How to reach me, email me wyoussef.sawadogo@gmail.com
-- 😄 Pronouns: Sefyou
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
